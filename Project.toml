@@ -1,0 +1,7 @@
+name = "VerExperiment"
+uuid = "2296e2b5-5d5d-4041-a352-4b4bc902234b"
+authors = ["GHTaarn <62629455+GHTaarn@users.noreply.github.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.0 - 1.6"
